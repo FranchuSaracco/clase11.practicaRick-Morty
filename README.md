@@ -1,1 +1,0 @@
-# Rick y Morty QueryStrings
