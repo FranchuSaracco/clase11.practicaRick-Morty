@@ -1,1 +1,1 @@
-# clase11.practicaRick-Morty
+# Rick y Morty QueryStrings
